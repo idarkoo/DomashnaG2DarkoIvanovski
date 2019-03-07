@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\DomashnaG2DarkoIvanovski\DomashnaG2DarkoIvanovski\bin\Debug\DomashnaG2DarkoIvanovski.exe.config
+C:\Users\Lenovo\source\repos\DomashnaG2DarkoIvanovski\DomashnaG2DarkoIvanovski\bin\Debug\DomashnaG2DarkoIvanovski.exe
+C:\Users\Lenovo\source\repos\DomashnaG2DarkoIvanovski\DomashnaG2DarkoIvanovski\bin\Debug\DomashnaG2DarkoIvanovski.pdb
+C:\Users\Lenovo\source\repos\DomashnaG2DarkoIvanovski\DomashnaG2DarkoIvanovski\obj\Debug\DomashnaG2DarkoIvanovski.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DomashnaG2DarkoIvanovski\DomashnaG2DarkoIvanovski\obj\Debug\DomashnaG2DarkoIvanovski.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DomashnaG2DarkoIvanovski\DomashnaG2DarkoIvanovski\obj\Debug\DomashnaG2DarkoIvanovski.exe
+C:\Users\Lenovo\source\repos\DomashnaG2DarkoIvanovski\DomashnaG2DarkoIvanovski\obj\Debug\DomashnaG2DarkoIvanovski.pdb
